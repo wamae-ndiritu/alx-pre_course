@@ -1,0 +1,11 @@
+#Ignore all emacs backup files
+*~
+
+#Ignore autosave files
+#*
+
+#Ignore all emacs compiled  files
+*.elc
+
+#Ignore emacs lock files
+*#
